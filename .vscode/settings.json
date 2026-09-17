@@ -1,0 +1,4 @@
+{
+	"python.defaultInterpreterPath": "${workspaceFolder}/PYTHON/.venv/bin/python",
+	"python.analysis.diagnosticMode": "workspace"
+}
